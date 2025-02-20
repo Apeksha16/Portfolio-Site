@@ -1,0 +1,25 @@
+
+.h-64{
+    height: 64px;
+}
+
+.h-20{
+    height: 20px;
+}
+
+.h-24{
+    height: 24px;
+}
+.txt-color1{
+    color: #16215B;
+}
+
+:root {
+    --primary-color: #2D2D2D;
+    --secondary-color: #888;
+    --background-color: #F3F3F3;
+    --button-bg: #222;
+    --button-hover-bg: #000;
+    --text-color: black;
+  }
+  
